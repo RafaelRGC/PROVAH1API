@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dt9L5VjNllw=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Rafael-PC\\OneDrive\\Desktop\\ProvaH1API\\Eleitores\\Eleitores.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.\r\n  Ocorreu um erro ao enviar a solicitação.\r\n  O nome remoto não pôde ser resolvido: 'api.nuget.org'",
+      "projectPath": "C:\\Users\\Rafael-PC\\OneDrive\\Desktop\\ProvaH1API\\Eleitores\\Eleitores.csproj",
+      "filePath": "C:\\Users\\Rafael-PC\\OneDrive\\Desktop\\ProvaH1API\\Eleitores\\Eleitores.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
